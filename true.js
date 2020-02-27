@@ -4,6 +4,6 @@ export const isNull = () => {
 
 export const isTrue = () => true;
 
-export const isfalse = () => false;
+export const isFalse = () => false;
 
 export const isUndefined = () => undefined;

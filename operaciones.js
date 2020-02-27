@@ -1,4 +1,7 @@
-function suma(a, b) {
+export const suma = (a, b) => {
     return a + b;
-  }
-  module.exports = suma;
+}
+
+export const multiplicacion = (a, b) => {
+    return a * b;
+}

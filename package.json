@@ -4,11 +4,12 @@
   "description": "primer ejemplo con jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "keywords": [
     "jest",
-    "ejemplo"
+    "pruebas unitarias"
   ],
   "author": "Ruddy Condori",
   "license": "MIT",
